@@ -1,0 +1,18 @@
+function membersplot(st1,st2)
+X = categorical({'ME';'BM';'CE';'EE'});
+X = reordercats(X,{'ME';'BM';'CE';'EE'});
+dept = ['ME';'BM';'CE';'EE'];
+qty = [22;45;23;33]
+a=st1+st2
+subplot(1,2,1)
+% if st1 = 'bar'
+    
+% bar(X,qty)
+% grid on
+subplot(1,2
+,2)
+
+pie(qty,dept)
+title ('Faculty members by department')
+end
+
