@@ -1,0 +1,8 @@
+# HMM
+
+beta8-6: 9.073606255400275e-15  # the value beta(6) at time 8
+gamma7-5: 0.06118971604584618  # the value gamma(5) at time 7
+
+mismatch: 3 # the number of sequences calculated in Section 1.4
+
+COMMENTS # Any comments you would like to add should go below this line.
